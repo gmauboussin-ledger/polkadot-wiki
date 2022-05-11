@@ -20,6 +20,7 @@ transactions. Below are some wallets that support Polkadot along with their deve
 | [Polkadot-js extension](https://github.com/polkadot-js/extension)   | Live              | Parity    | Browser extension | Non-custodial | Staking  |
 | [Polkadot-js apps](https://polkadot.js.org/apps/#/accounts)         | Live              | Parity    | Browser           | Non-Custodial | Staking  |
 
+
 [Polkadot support](https://support.polkadot.network/) can provide assistance with issues related to
 Polkadot-JS, the Polkadot{.js} extension, or Parity Signer. For other wallet software, you should
 contact the developers of that wallet.
@@ -45,6 +46,7 @@ these wallets or other non-Parity developed wallets.
 | [Stylo](https://stylo-app.com/)               | [1](https://polkadot.polkassembly.io/treasury/39)                                                                                                                                                   | Live              | Thibaut Sardan  | Android      | Non-custodial | Staking  |
 | [Nova Wallet](https://novawallet.io/)         | [1](https://kusama.polkassembly.io/treasury/122)                                                                                                                                                    | Live              | Nova Foundation | iOS, Android | Non-custodial | Staking  |
 | [Talisman](https://talisman.xyz/)             | Received a Tip**                                                                                                                                                                                    | Live              | TalismanSociety | Browser      | Non-custodial | Staking  |
+| [Ledger](https://www.ledger.com/polkadot-wallet)             |                                                                                                                                                                                     | Live              | Ledger | iOS, Android, Windows, Mac, Linux      | Non-custodial | Staking  |
 
 :::note **Tip from the Treasury
 
